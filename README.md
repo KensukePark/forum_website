@@ -7,9 +7,9 @@ Tomcat v9.0 <br>
 Oracle 11g <br>
 
 # Preview
-<p align="left"><img src="forum_01.png" width="262" height="195"/>
-<img src="forum_02.png" width="262" height="195"/>
-<img src="forum_03.png" width="262" height="195"/>
-<img src="forum_04.png" width="262" height="195"/>
-<img src="forum_05.png" width="262" height="195"/>
-<img src="forum_06.png" width="262" height="195"/></p>
+<p align="left"><img src="forum_01.png" width="393" height="292"/>
+<img src="forum_02.png" width="393" height="292"/>
+<img src="forum_03.png" width="393" height="292"/>
+<img src="forum_04.png" width="393" height="292"/>
+<img src="forum_05.png" width="393" height="292"/>
+<img src="forum_06.png" width="393" height="292"/></p>
